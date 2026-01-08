@@ -4,5 +4,5 @@
 /**
  * 
  */
-module JavaBackend {
+module Customer {
 }
